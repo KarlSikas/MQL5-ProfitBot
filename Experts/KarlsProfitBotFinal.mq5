@@ -5,10 +5,10 @@
 //+------------------------------------------------------------------+
 #property copyright "Copyright 2025, Karl Sikas & GitHub Copilot"
 #property link      "https://github.com/KarlSikas"
-#property version   "1.0.0_FINAL"
+#property version   "1.00"
 
 #include <Trade\Trade.mqh>
-#include <Include\TradeLogger.mqh>
+#include <TradeLogger.mqh>
 
 //--- EA seadistused
 input group           "Strateegia parameetrid"
